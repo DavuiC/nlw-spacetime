@@ -18,7 +18,3 @@ Você pode visualizar o layoout do projeto através
 [desse link](https://www.figma.com/file/xllhBAkuLVflqR1WB9SzTj/Capsula-do-Tempo---Trilha-Explorer?type=design&node-id=306%3A3&t=l2mqywaCaALXnqil-1). 
 É necessário ter uma conta no [Figma](https://www.figma.com)
 =======
-<p align= "center">
-  <img> src=".github/preview.png" alt="Demonstração do projeto" width= "100%" /> </img>
-</p>
->>>>>>> 426c8c86cdb24d395e6d06af207b090b32f9bedc
